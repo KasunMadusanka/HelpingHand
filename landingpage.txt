@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>Bootstrap template</title>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrapp.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg320mUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery/1.12.4/jquery.min.js"></script>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrapp.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA712mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+          
+    </head>
+    <body>
+    <div class="container">
+        
+        <div class="jumbotron extra-jumbotron"> 
+           <center>
+               <h2>Be A Candle, Give Light To Others</h2>
+        <h3>Helping Hand</h3>
+            <h2>We at Helping Hand,connect people who are willing to help</h2>
+               <h2>others and people who need help to build their lives.</h2>
+            <p><a class="btn btn-primary btn-lg" href="#" role="button" background=transparent>Join with us</a></p>
+            <a href="more.html">More on helping hand</a></center>
+        </div>
+        
+        <div class="container-fluid bg-3 text-center">
+        <div id="team" class="team">
+            <div class="row">
+            <div class="col-lg-6 col-md-2 text-left">
+                <div class="mycontent-left">
+                <h2>Helping Hand</h2>
+                <h4>Founders</h4>
+                
+                <div class="col-lg-2 col-md-2">
+                <img src="img25.jpg" class="img-circle" alt="abc">
+                    <h4>person</h4>
+                    <p>group member</p>
+                    <a href="#"><i class="fa fa-facebook" area-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-twitter" area-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-linkedin" area-hidden="true"></i></a>
+                </div>
+                
+                <div class="col-lg-2 col-md-2">
+                <img src="img25.jpg" class="img-circle" alt="abc">
+                    <h4>person1</h4>
+                    <p>group member</p>
+                    <a href="#"><i class="fa fa-facebook" area-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-twitter" area-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-linkedin" area-hidden="true"></i></a>
+                </div>
+                
+                <div class="col-lg-2 col-md-2">
+                <img src="img25.jpg" class="img-circle" alt="abc">
+                    <h4>person2</h4>
+                    <p>group member</p>
+                    <a href="#"><i class="fa fa-facebook" area-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-twitter" area-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-linkedin" area-hidden="true"></i></a>
+                </div>
+                
+                <div class="col-lg-2 col-md-2">
+                <img src="img25.jpg" class="img-circle" alt="abc">
+                    <h4>person3</h4>
+                    <p>group member</p>
+                    <a href="#"><i class="fa fa-facebook" area-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-twitter" area-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-linkedin" area-hidden="true"></i></a>
+                </div>
+                
+                <div class="col-lg-2 col-md-2">
+                <img src="img25.jpg" class="img-circle" alt="abc" >
+                    <h4>person4</h4>
+                    <p>group member</p>
+                    <a href="#"><i class="fa fa-facebook" area-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-twitter" area-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-linkedin" area-hidden="true"></i></a>
+                </div>
+                
+                <div class="col-lg-2 col-md-2">
+                <img src="img25.jpg" class="img-circle" alt="abc" >
+                    <h4>person5</h4>
+                    <p>group member</p>
+                    <a href="#"><i class="fa fa-facebook" area-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-twitter" area-hidden="true"></i></a>
+                    <a href="#"><i class="fa fa-linkedin" area-hidden="true"></i></a>
+                </div>
+            </div>
+        </div>
+        
+               <div class="col-lg-6 col-md-2 text-right">
+                   <div class="mycontent-right">
+       
+             <h3>Some more detail about Helping Hand project and what is this site doing.</h3>
+                       <p>Our aspiration is to help the people who need financial support in different conditions such as health conditions like surgeries, education, constructions (roads, bridges, schools, etc). A person can donate not only money, but also can sacrifice their time for an event like repairing a school, temple etc.This system is acting as an inter meddler for introducing different donors to different paupers and different paupers to different donors.</p>
+            <br><br><br><a href="#" class="previous round">&#8249; See what we did in Gallery</a>
+         </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        </div>
+        
+        <div class="col-sm-12">
+            <div class="foot">
+			<h3>Helping Hand</h3>
+			<p>
+			<span class="fa fa-envelope-o fa-lg fa-fw"></span>&nbsp;&nbsp;&nbsp;<a href="mailto:kdk.madusanka@gmail.com">kdk.madusanka@gmail.com</a>
+			<span class="fa fa-phone fa-lg fa-fw"></span>&nbsp;&nbsp;&nbsp;(+94) 77 558 0114
+			<span class="fa fa-github fa-lg fa-fw"></span>&nbsp;&nbsp;&nbsp;
+                <a href="https://github.com/KasunMadusanka/testing">https://github.com/KasunMadusanka/testing</a>
+			</p>
+		</div>
+        </div>    
+    </body>
+</html>
