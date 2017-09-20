@@ -1,0 +1,15 @@
+# Add any directories, files, or patterns you don't want to be tracked by version control
+HelpingHand_Code/.gradle
+HelpingHand_Code/.idea
+HelpingHand_Code/.settings
+HelpingHand_Code/bin/
+HelpingHand_Code/build/
+HelpingHand_Code/gradle/
+**/build
+**/out/
+*.iml
+*.iws
+*.ipr
+HelpingHand_Code/.classpath
+HelpingHand_Code/.project
+gradlew*
