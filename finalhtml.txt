@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Bootstrap Example</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    
+    <link rel="stylesheet" href="C:\Users\User\Desktop\final\bawanicss.css">
+     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+</head>
+<body>
+ <div class="background"> 
+  <div class="row">
+   <div class="carousel-inner"> 
+<div class="item active">
+ <figure class="overlay">  
+<img src="cover.png" alt="person">
+<figcaption> Helping Hand<br>Gallary     
+    <div class="img-wrapper">
+   <div class="img-overlay">
+      <button class="btn btn-md btn-success">Join with Us</button>
+    </div>
+        </div>
+        
+    <div class="transbox">
+    <p>Join with us to donate  </p>  
+  
+        </div> 
+            
+    </figcaption> 
+    
+          </figure>  
+ 
+         </div>
+                
+            </div> 
+          </div>
+      
+      </div> 
+          
+     <div class="container">     
+     <div class="col-md-6">
+      <div class="thumbnail">
+      <img src="4.png" alt="Nature" style="width:100%">
+        </div>
+    </div>
+    <div class="col-md-6">
+      <div class="thumbnail">
+    <img src="2.png" alt="Fjords" style="width:100%">
+      </div>
+    </div> 
+    <div class="col-md-6">
+      <div class="thumbnail">
+     <img src="1.png" alt="Fjords" style="width:100%">
+           </div>
+    </div> 
+    <div class="col-md-6">
+      <div class="thumbnail">
+      <img src="3.png" alt="Fjords" style="width:100%">
+      </div>
+    </div>
+ </div>
+ <footer class="site-footer"> 
+<div class="container">
+ <div class="row">
+
+</div>
+
+<div class="col-md-2"> Helping hand</div>
+       <div class="col-md-3">
+    
+   <p><span class="glyphicon glyphicon-envelope"></span><a href="Helpinghand@gmail.com">Helpinghand@gmail.com</a> </p>
+           
+           <p><a href="sitemap.html">site map</a></p>
+    </div>    
+ 
+    
+    <div class="col-md-3"> <p>   <a href="#" class="fa fa-facebook"></a><a href="https://www.facebook.com/x">https://www.facebook.com/x</a> </p>  
+    
+   </div>
+   <div class="col-md-4">
+       
+    <span class="fa fa-github fa-lg fa-fw"></span>&nbsp;&nbsp;&nbsp;
+                <a href="https://github.com/KasunMadusanka/testing">https://github.com/KasunMadusanka/testing</a> 
+       
+ </div>
+
+ </div>  
+</footer>
+</body>
+</html>
