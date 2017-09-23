@@ -1,0 +1,223 @@
+.jamo{
+    
+    margin: 0;
+    padding: 0px;
+    background-image: url(images/login-background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: sans-serif;
+    
+    
+    
+}
+.btn-lground {
+	       border-radius: 24px;
+           border-color: white;
+           outline-style: none;
+           border-bottom-color:black;
+              border-top-color:black;
+              border-right-color:black;
+              border-left-color:black;
+              
+            }
+.btn-register{
+    margin-top: 30px;
+	       border-radius: 24px;
+             background: green;
+           border-color:white;
+           outline-style: none;
+           border-bottom-color:black;
+              border-top-color:black;
+              border-right-color:black;
+              border-left-color:black;
+              
+            }
+.btn-veri{
+    border-radius: 24px;
+    background: aqua;
+    border-color:none;
+    width: 200px;
+}
+
+.btn-noveri{
+   background: cornflowerblue;
+     border-radius: 24px;
+     border-color:none;
+
+}
+
+.btn-browse{
+    margin-top: 15px;
+	       border-radius: 24px;
+             background:white;
+           border-color: black;
+           outline-style: none;
+           border-bottom-color:black;
+              border-top-color:black;
+              border-right-color:black;
+              border-left-color:black;
+              width: 80px;
+    height: 30px;
+            }
+
+.navbar{
+    margin-top: 250px;
+    background-color:black;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+ p.footer{
+                padding-top: 20px;
+                font-size: 20px;
+     color: white;
+            }
+footer{
+    background: black;
+    
+}
+    
+
+    .site-footer{
+                background-color: black;
+                text-decoration-color:white;
+                margin-top:72px;
+                padding-top: 00px;
+                margin-bottom: 0px;
+                padding-bottom: 0px;
+    
+        position: relative;
+            }
+
+.select{
+    text-align: right;
+                 border: none;
+                border-bottom: 1px solid yellow;
+                background: transparent;
+                outline: none;
+                height: 30px;
+                color: yellowgreen;
+               
+            }
+            
+
+
+   .form-control{
+          text-align:center;
+                 border: none;
+                border-bottom: 1px solid yellow;
+             
+             background: transparent;
+                outline: none;
+                font-size: 20px;
+                height: 30px;
+                
+            }
+
+
+.form-control-2{
+          text-align:center;
+                 border: none;
+                border-bottom: 1px solid black;
+             
+             background: transparent;
+                outline: none;
+                font-size: 20px;
+                height: 30px;
+                
+            }
+            
+            
+a.register{
+                color: yellow;
+            }
+
+a.login{
+                color: yellow;
+            }
+
+             .login{
+            
+           border-radius: 5px 50px 50px 5px;
+          background:yellow;
+           padding: 20px; 
+      
+
+                padding-left: 5px;
+                padding-right: 0px;
+                padding-bottom: 5px;
+                padding-top: 5px;
+                font-weight:normal;
+                
+            width: 80px;    
+            border: none;
+            outline: none;
+            height: 30px;
+                font-size: 16px;
+            
+                color: black;
+            }
+             
+.img{
+    margin-top: 80px;
+    width: 150px;
+    height: 200px;
+    border: black;
+}
+
+
+.form-group{
+                padding-top: 30px;
+                font-size: 20px;
+                font-weight: 0;
+                color: yellow;
+                border: none;
+             }
+
+.form-group-2{
+                padding-top: 30px;
+                font-size: 20px;
+                font-weight: 0;
+                color: black;
+                border: none;
+             }
+
+           label.light {
+    font-weight:normal;
+}
+
+.col-md-3 > a{
+    padding-top: 30px;
+    color:white;
+    text-decoration: none;
+}
+
+.github > a{
+  padding-top: 30px;
+    color:white;
+    text-decoration: none;  
+}
+
+
+h3{
+    padding-top: 30px;
+    color:white;
+}
+
+h1{
+    font-size: 90px;
+    color: white;
+    font-weight: normal;
+}
+.panel{
+    border: 0px;
+    background: rgba(0,0,0,0.5);
+    color: #ffff;
+    text-align: center;
+    padding-top: 0px;
+}
+
+.panel:hover{
+    background: rgba(0,0,0,0.7);
+}
+
