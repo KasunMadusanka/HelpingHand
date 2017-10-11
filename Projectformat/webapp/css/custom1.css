@@ -1,0 +1,174 @@
+.jamo {
+    margin: 0;
+    padding: 0px;
+    background-image: url(../images/login-background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: #eeeeee;
+}
+
+.btn-lground {
+    border-radius: 24px;
+    border-width: 1px;
+    outline-style: none;
+    border-bottom-color: black;
+    border-top-color: black;
+    border-right-color: black;
+    border-left-color: black;
+}
+
+.btn-register {
+    color: white;
+    margin-top: 30px;
+    border-radius: 24px;
+    background: #00b050;
+    border-color: #53c587;
+    outline-style: none;
+    border-bottom-color: #53c587;
+    border-top-color: #53c587;
+    border-right-color: #53c587;
+    border-left-color: #53c587;
+}
+
+.navbar {
+    margin-top: 250px;
+    background-color: black;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+p.footer {
+    padding-top: 20px;
+    font-size: 20px;
+    color: white;
+}
+
+footer {
+    background: black;
+}
+
+.site-footer {
+    background-color: black;
+    text-decoration-color: white;
+    margin-top: 72px;
+    padding-top: 00px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    position: relative;
+}
+
+.select {
+    border: none;
+    border-bottom: 1px solid yellow;
+    background: transparent;
+    outline: none;
+    height: 30px;
+    color: #999;
+    padding-left: 15px;
+    text-align: left;
+}
+
+.form-control {
+    text-align: left;
+    border: none;
+    border-bottom: 1px solid yellow;
+    background: transparent;
+    outline: none;
+    font-size: 20px;
+    height: 35px;
+}
+
+a.register {
+    color: yellow;
+}
+
+a.login {
+    color: yellow;
+}
+
+.login {
+    border-radius: 5px 50px 50px 5px;
+    background: yellow;
+    padding: 20px;
+    padding-left: 5px;
+    padding-right: 0px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-weight: normal;
+    width: 80px;
+    border: none;
+    outline: none;
+    height: 30px;
+    font-size: 16px;
+    color: black;
+}
+
+label.lig {
+    font-weight: normal;
+    padding-left: 110px;
+    padding-top: 25px;
+}
+
+.form-group {
+    padding-top: 30px;
+    font-size: 20px;
+    font-weight: 0;
+    color: yellow;
+    border: none;
+}
+
+label.light {
+    font-weight: normal;
+    height: 35px;
+}
+
+label.light2 {
+    font-weight: normal;
+    padding-top: 25px;
+    text-align: center;
+}
+
+label.lig {
+    font-weight: normal;
+    padding-left: 110px;
+    padding-top: 25px;
+}
+
+.col-md-3>a {
+    padding-top: 30px;
+    color: white;
+    text-decoration: none;
+}
+
+.github>a {
+    padding-top: 30px;
+    color: white;
+    text-decoration: none;
+}
+
+h3 {
+    padding-top: 30px;
+    color: white;
+}
+
+h1 {
+    font-size: 90px;
+    color: white;
+    font-weight: normal;
+}
+
+.panel {
+    border: 0px;
+    background: rgba(0, 0, 0, 0.5);
+    color: #ffff;
+    text-align: center;
+    padding-top: 0px;
+}
+
+.panel:hover {
+    background: rgba(0, 0, 0, 0.7);
+}

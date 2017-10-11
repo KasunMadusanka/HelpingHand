@@ -1,33 +1,10 @@
-.jamo {
+body {
     margin: 0;
     padding: 0px;
-    background-image: url(images/login-background.jpg);
+    background-image: url(../images/login-background.jpg);
     background-size: cover;
     background-attachment: fixed;
     font-family: sans-serif;
-}
-
-.btn-lground {
-    border-radius: 24px;
-    border-color: white;
-    outline-style: none;
-    border-bottom-color: black;
-    border-top-color: black;
-    border-right-color: black;
-    border-left-color: black;
-}
-
-.btn-register {
-    margin-top: 30px;
-    border-radius: 24px;
-    background: green;
-    ;
-    border-color: white;
-    outline-style: none;
-    border-bottom-color: black;
-    border-top-color: black;
-    border-right-color: black;
-    border-left-color: black;
 }
 
 .navbar {
@@ -37,7 +14,7 @@
     padding-bottom: 0px;
 }
 
-p.footer {
+p {
     padding-top: 20px;
     font-size: 20px;
     color: white;
@@ -74,14 +51,10 @@ footer {
     background: transparent;
     outline: none;
     font-size: 20px;
-    height: 30px;
+    height: 35px;
 }
 
 a.register {
-    color: yellow;
-}
-
-a.login {
     color: yellow;
 }
 
@@ -103,7 +76,7 @@ a.login {
 }
 
 .form-group {
-    padding-top: 30px;
+    padding-top: 50px;
     font-size: 20px;
     font-weight: 0;
     color: yellow;
@@ -112,6 +85,7 @@ a.login {
 
 label.light {
     font-weight: normal;
+    height: 35px;
 }
 
 .col-md-3>a {
