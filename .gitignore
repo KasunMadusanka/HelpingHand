@@ -1,22 +1,15 @@
-# Compiled class file
-*.class
-
-# Log file
-*.log
-
-# BlueJ files
-*.ctxt
-
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
-# Package Files #
-*.jar
-*.war
-*.ear
-*.zip
-*.tar.gz
-*.rar
-
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+# Add any directories, files, or patterns you don't want to be tracked by version control
+HelpingHand_Code/.gradle
+HelpingHand_Code/.idea
+HelpingHand_Code/.settings
+HelpingHand_Code/bin/
+HelpingHand_Code/build/
+HelpingHand_Code/gradle/
+**/build
+**/out/
+*.iml
+*.iws
+*.ipr
+HelpingHand_Code/.classpath
+HelpingHand_Code/.project
+gradlew*
