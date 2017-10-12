@@ -1,0 +1,405 @@
+.jamo {
+    margin: 0;
+    padding: 0px;
+    background-image: url(../images/login-background.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: sans-serif;
+}
+
+.btn-lground {
+    border-radius: 24px;
+    border-color: white;
+    outline-style: none;
+    border-bottom-color: black;
+    border-top-color: black;
+    border-right-color: black;
+    border-left-color: black;
+}
+
+.btn {
+    border-radius: 24px;
+    background: aqua;
+    border-color: none;
+    width: 50px;
+}
+
+.field {
+    width: 700px;
+    height: 50px;
+    border: 1px;
+    background: white;
+    padding: 6px;
+    border-radius: 50px;
+    padding-left: 80px;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+
+.profi {
+    position: relative;
+    margin-left: 0px;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    padding-left: 0px;
+}
+
+.delete {
+    margin-top: 5px;
+    border-radius: 50px;
+    width: 30px;
+    height: 30px;
+    right: 100px;
+    position: absolute;
+}
+
+.btn-register {
+    margin-top: 30px;
+    border-radius: 24px;
+    background: green;
+    border-color: white;
+    outline-style: none;
+    border-bottom-color: black;
+    border-top-color: black;
+    border-right-color: black;
+    border-left-color: black;
+}
+
+.btn-verify1 {
+    border-radius: 80px;
+    background: white;
+    border-color: white;
+    width: 50px;
+}
+
+.btn-verify3 {
+    border-radius: 80px;
+    background: #5b9bd5;
+    border-color: #5b9bd5;
+    color: white;
+    width: 60px;
+}
+
+.btn-verify2 {
+    height: 25px;
+    border-radius: 80px;
+    background: white;
+    border-color: none;
+    width: 25px;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 0px;
+}
+
+.btn-veri {
+    border-radius: 24px;
+    background: #5b9bd5;
+    border-color: none;
+    width: 200px;
+    color: white;
+}
+
+.btn-noveri {
+    background: #00b050;
+    border-radius: 24px;
+    border-color: none;
+    color: white;
+}
+
+.btn-browse {
+    margin-top: 15px;
+    border-radius: 24px;
+    background: white;
+    border-color: black;
+    outline-style: none;
+    border-bottom-color: black;
+    border-top-color: black;
+    border-right-color: black;
+    border-left-color: black;
+    width: 80px;
+    height: 30px;
+}
+
+.navbar {
+    margin-top: 250px;
+    background-color: black;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+p.footer {
+    padding-top: 20px;
+    font-size: 20px;
+    color: white;
+}
+
+footer {
+    background: black;
+}
+
+.site-footer {
+    background-color: black;
+    text-decoration-color: white;
+    margin-top: 72px;
+    padding-top: 00px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    position: relative;
+    width: 100%;
+}
+
+.select {
+    text-align: left;
+    border: none;
+    border-bottom: 1px solid yellow;
+    background: transparent;
+    outline: none;
+    height: 30px;
+    color: #868686;
+    padding-left: 20px;
+}
+
+.form-control {
+    text-align: center;
+    border: none;
+    border-bottom: 1px solid yellow;
+    background: transparent;
+    outline: none;
+    font-size: 20px;
+    height: 35px;
+}
+
+label.lig {
+    font-weight: normal;
+    color: #484848;
+}
+
+.bin {
+    width: 25px;
+    height: 25px;
+    background-image: url(bin.png);
+}
+
+.form-input {
+    border: none;
+    border-bottom: 1px solid yellow;
+    background-color: aqua;
+    outline: none;
+    font-size: 20px;
+    height: 30px;
+}
+
+.form-inputpa {
+    border: none;
+    border-bottom: opx solid yellow;
+    background-color: transparent;
+    outline: none;
+    font-size: 15px;
+    margin-top: -60px;
+    color: black;
+}
+
+.form-inputpanel {
+    border: none;
+    border-bottom: opx solid yellow;
+    background-color: transparent;
+    outline: none;
+    font-size: 12px;
+    height: 30px;
+}
+
+.contact {
+    width: 150px;
+    height: 20px;
+    border: 1px;
+    background: cornflowerblue;
+    padding: 6px;
+    border-radius: 50px;
+    padding-left: px;
+    font-size: 15px;
+    margin-bottom: 50px;
+    margin-left: px;
+}
+
+.contact-delete {
+    border-radius: 50px;
+    width: 20px;
+    height: 20px;
+    margin-top: 2px;
+    padding-top: 0px;
+    margin-bottom: -4px;
+    padding-right: 0px;
+}
+
+.form-control-2 {
+    text-align: left;
+    border: none;
+    border-bottom: 1px solid #cddbe8;
+    border-top: 0px;
+    background: transparent;
+    outline: none;
+    font-size: 15px;
+    height: 30px;
+    width: 300px;
+}
+
+a.register {
+    color: yellow;
+}
+
+a.login {
+    color: yellow;
+}
+
+.login {
+    border-radius: 5px 50px 50px 5px;
+    background: yellow;
+    padding: 20px;
+    padding-left: 5px;
+    padding-right: 0px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    font-weight: normal;
+    width: 80px;
+    border: none;
+    outline: none;
+    height: 30px;
+    font-size: 16px;
+    color: black;
+}
+
+.img {
+    margin-top: 80px;
+    width: 150px;
+    height: 200px;
+    border: black;
+}
+
+.profile {
+    padding-left: 10px;
+    width: 100px;
+    height: 100px;
+    position: absolute:
+}
+
+.form-group {
+    padding-top: 30px;
+    font-size: 20px;
+    font-weight: 0;
+    color: yellow;
+    border: none;
+}
+
+.form-group-2 {
+    padding-top: 30px;
+    font-size: 20px;
+    font-weight: 0;
+    color: black;
+    border: none;
+    margin-left: auto;
+}
+
+label.light {
+    font-weight: normal;
+    text-align: left;
+    padding-left: 0px;
+}
+
+.col-md-3>a {
+    padding-top: 30px;
+    color: white;
+    text-decoration: none;
+}
+
+.github>a {
+    padding-top: 30px;
+    color: white;
+    text-decoration: none;
+}
+
+h3 {
+    padding-top: 30px;
+    color: white;
+}
+
+h1 {
+    font-size: 90px;
+    color: white;
+    font-weight: normal;
+}
+
+.panel {
+    border: 0px;
+    background: rgba(0, 0, 0, 0.5);
+    color: #ffff;
+    text-align: center;
+    padding-top: 0px;
+}
+
+.profileaiya {
+    margin-left: 00px;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    margin-top: 5px;
+    position: absolute;
+}
+
+.panel2 {
+    border: 0px;
+    background: rgba(0, 0, 0, 0.5);
+    color: antiquewhite;
+    text-align: center;
+    padding-top: 0px;
+    border-radius: 50px;
+    background-color: white;
+}
+
+.panel3 {
+    border: 0px;
+    background: rgba(0, 0, 0, 0.5);
+    color: white;
+    text-align: center;
+    padding-top: 0px;
+    border-radius: 50px;
+    background-color: #5b9bd5;
+}
+
+.panel3 {
+    border: 0px;
+    background: rgba(0, 0, 0, 0.5);
+    color: antiquewhite;
+    text-align: center;
+    padding-top: 0px;
+    border-radius: 50px;
+    background-color: deepskyblue;
+    width: 200px;
+    height: 30px;
+    padding-right: opx;
+}
+
+.panel:hover {
+    background: rgba(0, 0, 0, 0.7);
+}
+
+.field {
+    height: 50px;
+    border: 1px;
+    background: yellow;
+    padding: 6px;
+    border-radius: 50px;
+    padding-left: 80px;
+    font-size: 20px;
+    background-image: url(images/bin.png) right no-repeat;
+}
+
+
+}
